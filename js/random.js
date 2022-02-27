@@ -6,7 +6,8 @@ function Randomize() {
         'Me la mandi una foto di quel culetto?', 
         'Giuro che se mi mandi una foto del tuo culetto inizio a fare il bravo',
         'Mi hanno detto che le foto del culetto ti rendono felice, io sono molto triste oggi',
-        'GIuro che inizio a studiare se mi mandi una fotina'
+        'Giuro che inizio a studiare se mi mandi una fotina',
+
     ];
     
     var imageNum = Math.floor(Math.random() * images.length);
